@@ -1,6 +1,5 @@
 # BostonMarathonTimeProjections
-## James DeLuca
-## 10/10/2020
+### James DeLuca, 10/10/2020
 
 The purpose of this project is to develop an improved model for predicting finish time and risk of "hitting the wall" at each of the timing mat splits through the Boston Marathon. This model will be built, tuned and tested on 2015 and 2016 data and validated on 2017 data. The goal will be to develop a model which can produce lower RMSE at every split along the course than the baseline assumption of simply projecting the finish time from the average pace up to the timing mat.
 
