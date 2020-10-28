@@ -1,9 +1,9 @@
 # Boston Marathon Finish Time Projections
 ### James DeLuca, 10/10/2020
 
-The purpose of this project is to develop an improved model for predicting finish time and risk of "hitting the wall" at each of the timing mat splits through the Boston Marathon. This model will be built, tuned and tested on 2015 and 2016 data and validated on 2017 data. The goal will be to develop a model which can produce lower RMSE at every split along the course than the baseline assumption of simply projecting the finish time from the average pace up to the timing mat.
+The purpose of this project is to develop an improved model for predicting finish time at each of the timing mat splits through the Boston Marathon. This model will be built, tuned and tested on 2015 and 2016 data and validated on 2017 data. The goal will be to develop a model which can produce lower RMSE at every split along the course than the baseline assumption of simply projecting the finish time from the average pace up to the timing mat.
 
-For the runner who may have access to this data and model via smart device, this model may help with race strategy (trying to keep "hitting the wall" risk low while keeping a target time within the confidence interval of the projected time).
+For the runner who may have access to this data and model via smart device, this model may help with race strategy to keep on target for a desired finish time.
 
 For the spectator, this model is intended to help manage social distancing at key observation points along the course. By improving the predictions of when a runner will come past any given point along the course the density of spectators can be more effectively managed to reduce public health risks associated with major marathons such as Boston.
 
